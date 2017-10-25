@@ -1,0 +1,9 @@
+D:\Work\Projects\FoodSimulator\FoodSimulator\bin\Debug\FoodSimulator.exe.config
+D:\Work\Projects\FoodSimulator\FoodSimulator\bin\Debug\FoodSimulator.exe
+D:\Work\Projects\FoodSimulator\FoodSimulator\bin\Debug\FoodSimulator.pdb
+D:\Work\Projects\FoodSimulator\FoodSimulator\obj\Debug\FoodSimulator.csprojResolveAssemblyReference.cache
+D:\Work\Projects\FoodSimulator\FoodSimulator\obj\Debug\FoodSimulator.Form1.resources
+D:\Work\Projects\FoodSimulator\FoodSimulator\obj\Debug\FoodSimulator.Properties.Resources.resources
+D:\Work\Projects\FoodSimulator\FoodSimulator\obj\Debug\FoodSimulator.csproj.GenerateResource.Cache
+D:\Work\Projects\FoodSimulator\FoodSimulator\obj\Debug\FoodSimulator.exe
+D:\Work\Projects\FoodSimulator\FoodSimulator\obj\Debug\FoodSimulator.pdb
